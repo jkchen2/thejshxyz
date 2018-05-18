@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="128" height="128" version="1.1" viewBox="0 0 33.867 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <metadata>
   <rdf:RDF>
@@ -10,15 +9,9 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <g transform="translate(0 -263.13)" stroke="#000" stroke-width="1.0583">
-  <path d="m6.35 267.37v25.4h21.167v-19.05l-6.35-6.35z" fill-opacity="0"/>
-  <g fill="none">
-   <path d="m21.167 267.37v6.35h6.35"/>
-   <path d="m8.4667 277.95h16.933"/>
-   <path d="m8.4667 282.18h8.4667"/>
-   <path d="m10.583 284.3h8.4667"/>
-   <path d="m10.583 286.42h8.4667"/>
-   <path d="m10.583 288.53h8.4667"/>
-  </g>
+ <g transform="translate(0 -263.13)" fill="none" stroke="#000" stroke-width="1.0583">
+  <path d="m19.05 277.95h8.4667"/>
+  <path d="m19.05 280.07h8.4667"/>
+  <path d="m19.05 282.18h8.4667"/>
  </g>
 </svg>
