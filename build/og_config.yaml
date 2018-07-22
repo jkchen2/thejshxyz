@@ -1,0 +1,19 @@
+about:
+    url: "https://thejsh.xyz/about"
+    description: "I like computer stuff. You can probably tell."
+    image: "https://thejsh.xyz/assets/icons/about.png"
+
+api:
+    url: "https://thejsh.xyz/api"
+    description: "Come say hi."
+    image: "https://thejsh.xyz/assets/icons/api.png"
+
+extra:
+    url: "https://thejsh.xyz/extra"
+    description: "Click here to get a free migraine."
+    image: "https://thejsh.xyz/assets/icons/extra.png"
+
+projects:
+    url: "https://thejsh.xyz/projects"
+    description: "Just some stuff I've worked on in my spare time."
+    image: "https://thejsh.xyz/assets/icons/projects.png"
